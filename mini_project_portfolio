@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practice question 3</title>
+    <link rel="stylesheet" href="mini_project_portfolio.css">
+</head>
+<body>
+    <div class="all"><!-- create a portfollio page like resume-->
+        <div id="name"><h1>Harish Balaji</h1></div>
+        <div id="image"> <img src="photo.jpg" alt="harish image"></div>
+       <div id="info">
+        <h3>Education:</h3>
+        <ul>
+            <li>HSC=90</li>
+            <li>SSC=90</li>
+            <li>BE FE=8 cgpa</li>   
+        </ul>
+        <h3>Skills:</h3>    
+    <ul>
+        <li>HTML5</li>
+        <LI>CSS</LI>
+        <li>C programing </li>
+        <Li>C++ programing</Li>
+    </ul>
+    <h3>contact me:</h3>
+    <p><a href="https://www.google.com/gmail/about/">Gmail</a>: harishbalaji4660@gmail.com<br><b>mobile no:</b>8767491940<br>
+    <a href="https://in.linkedin.com/">linkedin</a>:Harish Balaji</p>
+    <h3><b><u>THANKS &hearts;</u></b></h3>
+       </div>
+    
+    
+    
+    
+    
+    </div>  
+    </body>
+    
+</html>
